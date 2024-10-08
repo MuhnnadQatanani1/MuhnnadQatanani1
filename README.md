@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhnnad Qatanani
 
-<!--
-**MuhnnadQatanani1/MuhnnadQatanani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc in computer systems engineering** – Palestine Technical University – Kadoorie
 
-Here are some ideas to get you started:
+I am a fresh graduate from Kadoori. I am currently seeking an **internship** or **entry-level position** in  software engineer  or backend development to apply my skills, continue learning, and contribute to real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Programming Languages**: Python, Dart, C#, Java, C++, MongoDB, HTML, CSS, JavaScript
+- **Software Development**: OOP, Design Patterns, Unit Testing, SOLID Principles, Data Structures, Problem Solving, Multithreading
+- **CI/CD**: Knowledge in Continuous Integration and Continuous Deployment
+- **Tools & Technologies**: Visual Studio, Git, GitHub, Node.js
+- **Architectures**: MVC/MTV, Microservices
+- **Multithreading**: Understanding of Multithreading Concepts
+- **Other**: Agile Methodologies
+
+
+## 📫 Socials
+- **GitHub**: [MuhnnadQatanani1](https://github.com/MuhnnadQatanani1)
+- **LinkedIn**: [MuhnnadQatanani](https://www.linkedin.com/in/muhnnad-qatanani/)
+
