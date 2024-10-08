@@ -9,7 +9,7 @@ I am a fresh graduate from Kadoori. I am currently seeking an **internship** or 
 - **Programming Languages**: Python, Dart, C#, Java, C++, MongoDB, HTML, CSS, JavaScript
 - **Software Development**: OOP, Design Patterns, Unit Testing, SOLID Principles, Data Structures, Problem Solving, Multithreading
 - **CI/CD**: Knowledge in Continuous Integration and Continuous Deployment
-- **Tools & Technologies**: Visual Studio, Git, GitHub, Node.js
+- **Tools & Technologies**: Visual Studio, Git, GitHub, ASP.net
 - **Architectures**: MVC/MTV, Microservices
 - **Multithreading**: Understanding of Multithreading Concepts
 - **Other**: Agile Methodologies
